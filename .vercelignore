@@ -1,7 +1,12 @@
 node_modules
-build
-dist
+.next
+out
+.vercel
+*.node
+*.exe
 .git
 .trae
 .log
 .figma
+build
+dist
