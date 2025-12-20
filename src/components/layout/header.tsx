@@ -23,7 +23,7 @@ export function Header() {
             Translator
           </Link>
           <Link 
-            href="https://github.com/your-username/nanojason" 
+            href="https://github.com/roman-ryzenadvanced/NanoJasonPro?tab=readme-ov-file" 
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-600 transition-colors font-medium flex items-center gap-1"

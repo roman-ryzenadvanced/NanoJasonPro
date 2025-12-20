@@ -28,8 +28,10 @@
 ## 📸 **App Showcase**
 
 <div align="center">
-  <img src="public/screenshots/hero.png" alt="NanoJason Hero" width="800">
-  <p><em>The ultimate prompt engineering dashboard</em></p>
+  <a href="https://prnt.sc/b1jhvyAX87-z" target="_blank">
+    <img src="https://raw.githubusercontent.com/roman-ryzenadvanced/NanoJasonPro/main/public/screenshots/hero.png" alt="NanoJason Hero" width="800">
+  </a>
+  <p><em>Click the image above or <a href="https://prnt.sc/b1jhvyAX87-z">here</a> to view the full screenshot</em></p>
 </div>
 
 ---
