@@ -6,14 +6,16 @@
 ![Version](https://img.shields.io/badge/Version-3.0-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Offline](https://img.shields.io/badge/Status-Offline%20Ready-purple?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=vercel)](https://traeaym57nyw.vercel.app/)
 
 </div>
 
 <p align="center">
-  <strong>NanoJason</strong> is a revolutionary, offline-only prompt engineering tool that transforms natural language descriptions into optimized Jason format for maximum AI accuracy across all image generation services.
+  <strong>NanoJason</strong> is a revolutionary prompt engineering tool that transforms natural language descriptions into optimized Jason format for maximum AI accuracy across all image generation services.
 </p>
 
 <p align="center">
+  <a href="https://traeaym57nyw.vercel.app/">🌐 Live Preview</a> •
   <a href="#features">🌟 Features</a> • 
   <a href="#getting-started">🚀 Getting Started</a> • 
   <a href="#usage">💡 Usage</a> • 
